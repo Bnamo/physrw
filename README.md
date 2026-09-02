@@ -14,8 +14,6 @@ tested on windows 10 19045, x64, VBS and HVCI on. 11 untested, should be the sam
 - watch prints every write to an address, live
 - freeze pins a value against rewrites, writes it back every 50ms. health/ammo/timers
 
-module list, kernel base, everything comes off a running box.
-
 ## setting it up
 
 run everything from an admin prompt on the box. use the builds in bin/, no
